@@ -40,7 +40,7 @@
 
 ###
 
-<h1 align="center">Find Me In</h1>
+<h1 align="center">Social</h1>
 
 ###
 
