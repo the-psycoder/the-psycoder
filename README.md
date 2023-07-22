@@ -8,6 +8,11 @@
 
 ###
 
+![339268235_163465966282604_656512319685628854_n](https://github.com/the-psycoder/the-psycoder/assets/140235168/ab8d876d-2830-4dde-9338-8e915c8cced6)
+
+
+###
+
 <p align="center">Hello, I'm Maruf Hasan from Bangladesh. I love programming and chess. I'm much acknowledged in Python programming language. I also have much knowledge of HTML, CSS, Javascript, Arduino ( Robotics ), Graphic Design, and Video Editing. I will upload super innovative Python, Web development ( something related to this ), and Arduino ( Robotics ) projects here. So, stay tuned and keep supporting me. I love you all ❤</p>
 
 ###
